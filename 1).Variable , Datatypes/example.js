@@ -5,3 +5,4 @@ const product = {
      color  : "pitch",
      offer :  5,
 };
+console.log(product);
