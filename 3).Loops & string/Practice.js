@@ -19,6 +19,6 @@ while (userNum != gameNum){
 console.log("Congratulation, you entered the right number");
 
 // que 03
-let fullName = prompt("Enter your full naem without spaces");
+let fullName = prompt("Enter your full name without spaces");
 let userName = ("@" + fullName + fullName.length);
 console.log(username);
