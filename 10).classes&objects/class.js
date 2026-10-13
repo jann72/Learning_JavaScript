@@ -62,3 +62,4 @@ let fortuner1 = new toyotaCarr("fortuner1",10);
 console.log(fortuner1);
 let lexus1  = new toyotaCarr("lexus1",20);
 console.log(lexus1);
+
