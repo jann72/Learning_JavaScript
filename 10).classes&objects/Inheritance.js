@@ -45,5 +45,5 @@ class engineer extends Person2 {
   }
 }
 
-let engobj = new engineer("romeo
-  ");
+let engobj = new engineer("romeo");
+
